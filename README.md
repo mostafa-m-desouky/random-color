@@ -1,2 +1,1 @@
-# random-color
-Created with CodeSandbox
+frist README
